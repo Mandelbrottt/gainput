@@ -20,3 +20,9 @@ cmakebuild*/
 .gradle
 .externalNativeBuild
 gradle
+
+bin/
+bin-int/
+*.vcxproj
+*.filters
+*.user
